@@ -40,7 +40,7 @@ Me gusta entender cómo funcionan las cosas, resolver problemas y convertir lo q
 
 También he encontrado una forma de conectar mi interés por los videojuegos con la programación.
 
-Contribuí a esta herramienta, que ayuda a los jugadores a planificar y evaluar sus personajes, implementando el cálculo de daño de una gema de soporte de veneno.
+Contribuí a esta herramienta, que ayuda a los jugadores a planificar y evaluar sus personajes, implementando el cálculo de daño de una habilidad de soporte.
 
 **Mi pull request fue aceptado e integrado en el proyecto.**
 
