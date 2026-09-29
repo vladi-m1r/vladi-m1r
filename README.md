@@ -10,7 +10,7 @@ Me gusta entender cómo funcionan las cosas, resolver problemas y convertir lo q
 
 **Lenguajes**
 
-![Lenguajes](https://skillicons.dev/icons?i=php,js,ts,python,cs)
+![Lenguajes](https://skillicons.dev/icons?i=php,js,ts,python,cs,lua)
 
 **Desarrollo web y bases de datos**
 
