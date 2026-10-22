@@ -38,12 +38,6 @@ Me gusta entender cómo funcionan las cosas, resolver problemas y convertir lo q
 
 ### Path of Building Community · Path of Exile 2
 
-También he encontrado una forma de conectar mi interés por los videojuegos con la programación.
-
-Contribuí a esta herramienta, que ayuda a los jugadores a planificar y evaluar sus personajes, implementando el cálculo de daño de una habilidad de soporte.
-
-**Mi pull request fue aceptado e integrado en el proyecto.**
-
 ## 📫 Conectemos
 
 [LinkedIn]([URL_LINKEDIN](https://www.linkedin.com/in/vladimir-solorzano-0710b6271/))
